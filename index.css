@@ -1,0 +1,17 @@
+body{
+    width: 100vh;
+    margin: 0 auto;
+}
+div{
+    margin-top: 300px;
+    width: 100%;
+    text-align: center;
+}
+h2{
+    color: red;
+}
+input{
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 25px;
+}
